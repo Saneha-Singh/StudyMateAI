@@ -1,0 +1,1001 @@
+task_title,description,category,priority
+revise the DBMS syllabus,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+revise the operating systems syllabus,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+revise the computer networks syllabus,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+revise the machine learning syllabus,I should practise questions and review mistakes within the next two days.,Exam,High
+revise the data structures syllabus,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+revise the automata theory syllabus,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+revise the computer architecture syllabus,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+revise the software engineering syllabus,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+revise the statistics syllabus,I should practise questions and review mistakes sometime next week.,Exam,Low
+revise the object-oriented programming syllabus,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+prepare for the DBMS examination,I need to cover the remaining units and check my understanding within the next two days.,Exam,High
+prepare for the operating systems examination,"My preparation is incomplete, so I need a focused revision session this week.",Exam,Medium
+prepare for the computer networks examination,I should practise questions and review mistakes in the next few days.,Exam,Medium
+prepare for the machine learning examination,This is part of my exam preparation; I need to finish the planned work before the weekend.,Exam,Medium
+prepare for the data structures examination,The exam is when I get my next study slot; focus on the topics I find difficult.,Exam,Low
+prepare for the automata theory examination,I need to cover the remaining units and check my understanding sometime next week.,Exam,Low
+prepare for the computer architecture examination,"My preparation is incomplete, so I need a focused revision session whenever I have free time.",Exam,Low
+prepare for the software engineering examination,I should practise questions and review mistakes today before the deadline.,Exam,High
+prepare for the statistics examination,This is part of my exam preparation; I need to finish the planned work by tomorrow morning.,Exam,High
+prepare for the object-oriented programming examination,The exam is before the submission closes; focus on the topics I find difficult.,Exam,High
+solve previous-year DBMS papers,"My preparation is incomplete, so I need a focused revision session before the weekend.",Exam,Medium
+solve previous-year operating systems papers,I should practise questions and review mistakes when I get my next study slot.,Exam,Low
+solve previous-year computer networks papers,This is part of my exam preparation; I need to finish the planned work sometime next week.,Exam,Low
+solve previous-year machine learning papers,The exam is whenever I have free time; focus on the topics I find difficult.,Exam,Low
+solve previous-year data structures papers,I need to cover the remaining units and check my understanding today before the deadline.,Exam,High
+solve previous-year automata theory papers,"My preparation is incomplete, so I need a focused revision session by tomorrow morning.",Exam,High
+solve previous-year computer architecture papers,I should practise questions and review mistakes before the submission closes.,Exam,High
+solve previous-year software engineering papers,This is part of my exam preparation; I need to finish the planned work within the next two days.,Exam,High
+solve previous-year statistics papers,The exam is this week; focus on the topics I find difficult.,Exam,Medium
+solve previous-year object-oriented programming papers,I need to cover the remaining units and check my understanding in the next few days.,Exam,Medium
+review DBMS lecture notes,I should practise questions and review mistakes whenever I have free time.,Exam,Low
+review operating systems lecture notes,This is part of my exam preparation; I need to finish the planned work today before the deadline.,Exam,High
+review computer networks lecture notes,The exam is by tomorrow morning; focus on the topics I find difficult.,Exam,High
+review machine learning lecture notes,I need to cover the remaining units and check my understanding before the submission closes.,Exam,High
+review data structures lecture notes,"My preparation is incomplete, so I need a focused revision session within the next two days.",Exam,High
+review automata theory lecture notes,I should practise questions and review mistakes this week.,Exam,Medium
+review computer architecture lecture notes,This is part of my exam preparation; I need to finish the planned work in the next few days.,Exam,Medium
+review software engineering lecture notes,The exam is before the weekend; focus on the topics I find difficult.,Exam,Medium
+review statistics lecture notes,I need to cover the remaining units and check my understanding when I get my next study slot.,Exam,Low
+review object-oriented programming lecture notes,"My preparation is incomplete, so I need a focused revision session sometime next week.",Exam,Low
+practice DBMS mock questions,This is part of my exam preparation; I need to finish the planned work before the submission closes.,Exam,High
+practice operating systems mock questions,The exam is within the next two days; focus on the topics I find difficult.,Exam,High
+practice computer networks mock questions,I need to cover the remaining units and check my understanding this week.,Exam,Medium
+practice machine learning mock questions,"My preparation is incomplete, so I need a focused revision session in the next few days.",Exam,Medium
+practice data structures mock questions,I should practise questions and review mistakes before the weekend.,Exam,Medium
+practice automata theory mock questions,This is part of my exam preparation; I need to finish the planned work when I get my next study slot.,Exam,Low
+practice computer architecture mock questions,The exam is sometime next week; focus on the topics I find difficult.,Exam,Low
+practice software engineering mock questions,I need to cover the remaining units and check my understanding whenever I have free time.,Exam,Low
+practice statistics mock questions,"My preparation is incomplete, so I need a focused revision session today before the deadline.",Exam,High
+practice object-oriented programming mock questions,I should practise questions and review mistakes by tomorrow morning.,Exam,High
+complete the DBMS revision plan,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+complete the operating systems revision plan,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+complete the computer networks revision plan,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+complete the machine learning revision plan,I should practise questions and review mistakes sometime next week.,Exam,Low
+complete the data structures revision plan,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+complete the automata theory revision plan,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+complete the computer architecture revision plan,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+complete the software engineering revision plan,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+complete the statistics revision plan,I should practise questions and review mistakes within the next two days.,Exam,High
+complete the object-oriented programming revision plan,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+memorise key DBMS formulas,I need to cover the remaining units and check my understanding sometime next week.,Exam,Low
+memorise key operating systems formulas,"My preparation is incomplete, so I need a focused revision session whenever I have free time.",Exam,Low
+memorise key computer networks formulas,I should practise questions and review mistakes today before the deadline.,Exam,High
+memorise key machine learning formulas,This is part of my exam preparation; I need to finish the planned work by tomorrow morning.,Exam,High
+memorise key data structures formulas,The exam is before the submission closes; focus on the topics I find difficult.,Exam,High
+memorise key automata theory formulas,I need to cover the remaining units and check my understanding within the next two days.,Exam,High
+memorise key computer architecture formulas,"My preparation is incomplete, so I need a focused revision session this week.",Exam,Medium
+memorise key software engineering formulas,I should practise questions and review mistakes in the next few days.,Exam,Medium
+memorise key statistics formulas,This is part of my exam preparation; I need to finish the planned work before the weekend.,Exam,Medium
+memorise key object-oriented programming formulas,The exam is when I get my next study slot; focus on the topics I find difficult.,Exam,Low
+prepare a DBMS exam cheat sheet,"My preparation is incomplete, so I need a focused revision session by tomorrow morning.",Exam,High
+prepare a operating systems exam cheat sheet,I should practise questions and review mistakes before the submission closes.,Exam,High
+prepare a computer networks exam cheat sheet,This is part of my exam preparation; I need to finish the planned work within the next two days.,Exam,High
+prepare a machine learning exam cheat sheet,The exam is this week; focus on the topics I find difficult.,Exam,Medium
+prepare a data structures exam cheat sheet,I need to cover the remaining units and check my understanding in the next few days.,Exam,Medium
+prepare a automata theory exam cheat sheet,"My preparation is incomplete, so I need a focused revision session before the weekend.",Exam,Medium
+prepare a computer architecture exam cheat sheet,I should practise questions and review mistakes when I get my next study slot.,Exam,Low
+prepare a software engineering exam cheat sheet,This is part of my exam preparation; I need to finish the planned work sometime next week.,Exam,Low
+prepare a statistics exam cheat sheet,The exam is whenever I have free time; focus on the topics I find difficult.,Exam,Low
+prepare a object-oriented programming exam cheat sheet,I need to cover the remaining units and check my understanding today before the deadline.,Exam,High
+review weak topics in DBMS,I should practise questions and review mistakes this week.,Exam,Medium
+review weak topics in operating systems,This is part of my exam preparation; I need to finish the planned work in the next few days.,Exam,Medium
+review weak topics in computer networks,The exam is before the weekend; focus on the topics I find difficult.,Exam,Medium
+review weak topics in machine learning,I need to cover the remaining units and check my understanding when I get my next study slot.,Exam,Low
+review weak topics in data structures,"My preparation is incomplete, so I need a focused revision session sometime next week.",Exam,Low
+review weak topics in automata theory,I should practise questions and review mistakes whenever I have free time.,Exam,Low
+review weak topics in computer architecture,This is part of my exam preparation; I need to finish the planned work today before the deadline.,Exam,High
+review weak topics in software engineering,The exam is by tomorrow morning; focus on the topics I find difficult.,Exam,High
+review weak topics in statistics,I need to cover the remaining units and check my understanding before the submission closes.,Exam,High
+review weak topics in object-oriented programming,"My preparation is incomplete, so I need a focused revision session within the next two days.",Exam,High
+attempt a timed DBMS practice test,This is part of my exam preparation; I need to finish the planned work when I get my next study slot.,Exam,Low
+attempt a timed operating systems practice test,The exam is sometime next week; focus on the topics I find difficult.,Exam,Low
+attempt a timed computer networks practice test,I need to cover the remaining units and check my understanding whenever I have free time.,Exam,Low
+attempt a timed machine learning practice test,"My preparation is incomplete, so I need a focused revision session today before the deadline.",Exam,High
+attempt a timed data structures practice test,I should practise questions and review mistakes by tomorrow morning.,Exam,High
+attempt a timed automata theory practice test,This is part of my exam preparation; I need to finish the planned work before the submission closes.,Exam,High
+attempt a timed computer architecture practice test,The exam is within the next two days; focus on the topics I find difficult.,Exam,High
+attempt a timed software engineering practice test,I need to cover the remaining units and check my understanding this week.,Exam,Medium
+attempt a timed statistics practice test,"My preparation is incomplete, so I need a focused revision session in the next few days.",Exam,Medium
+attempt a timed object-oriented programming practice test,I should practise questions and review mistakes before the weekend.,Exam,Medium
+complete the DBMS assignment,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+complete the operating systems assignment,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+complete the computer networks assignment,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+complete the machine learning assignment,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+complete the data structures assignment,This coursework is pending and should be completed this week.,Assignment,Medium
+complete the automata theory assignment,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+complete the software engineering assignment,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+complete the web development assignment,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+complete the statistics assignment,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+complete the Python programming assignment,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+write the report for DBMS,I have completed part of it and need to finish the remaining questions within the next two days.,Assignment,High
+write the report for operating systems,The instructor expects the file to be properly formatted this week.,Assignment,Medium
+write the report for computer networks,I need to check the rubric and upload the final work in the next few days.,Assignment,Medium
+write the report for machine learning,This coursework is pending and should be completed before the weekend.,Assignment,Medium
+write the report for data structures,The submission deadline is when I get my next study slot; I still need to verify the answers.,Assignment,Low
+write the report for automata theory,I have completed part of it and need to finish the remaining questions sometime next week.,Assignment,Low
+write the report for software engineering,The instructor expects the file to be properly formatted whenever I have free time.,Assignment,Low
+write the report for web development,I need to check the rubric and upload the final work today before the deadline.,Assignment,High
+write the report for statistics,This coursework is pending and should be completed by tomorrow morning.,Assignment,High
+write the report for Python programming,The submission deadline is before the submission closes; I still need to verify the answers.,Assignment,High
+solve the DBMS assignment questions,The instructor expects the file to be properly formatted before the weekend.,Assignment,Medium
+solve the operating systems assignment questions,I need to check the rubric and upload the final work when I get my next study slot.,Assignment,Low
+solve the computer networks assignment questions,This coursework is pending and should be completed sometime next week.,Assignment,Low
+solve the machine learning assignment questions,The submission deadline is whenever I have free time; I still need to verify the answers.,Assignment,Low
+solve the data structures assignment questions,I have completed part of it and need to finish the remaining questions today before the deadline.,Assignment,High
+solve the automata theory assignment questions,The instructor expects the file to be properly formatted by tomorrow morning.,Assignment,High
+solve the software engineering assignment questions,I need to check the rubric and upload the final work before the submission closes.,Assignment,High
+solve the web development assignment questions,This coursework is pending and should be completed within the next two days.,Assignment,High
+solve the statistics assignment questions,The submission deadline is this week; I still need to verify the answers.,Assignment,Medium
+solve the Python programming assignment questions,I have completed part of it and need to finish the remaining questions in the next few days.,Assignment,Medium
+finish the DBMS worksheet,I need to check the rubric and upload the final work whenever I have free time.,Assignment,Low
+finish the operating systems worksheet,This coursework is pending and should be completed today before the deadline.,Assignment,High
+finish the computer networks worksheet,The submission deadline is by tomorrow morning; I still need to verify the answers.,Assignment,High
+finish the machine learning worksheet,I have completed part of it and need to finish the remaining questions before the submission closes.,Assignment,High
+finish the data structures worksheet,The instructor expects the file to be properly formatted within the next two days.,Assignment,High
+finish the automata theory worksheet,I need to check the rubric and upload the final work this week.,Assignment,Medium
+finish the software engineering worksheet,This coursework is pending and should be completed in the next few days.,Assignment,Medium
+finish the web development worksheet,The submission deadline is before the weekend; I still need to verify the answers.,Assignment,Medium
+finish the statistics worksheet,I have completed part of it and need to finish the remaining questions when I get my next study slot.,Assignment,Low
+finish the Python programming worksheet,The instructor expects the file to be properly formatted sometime next week.,Assignment,Low
+prepare the DBMS lab record,This coursework is pending and should be completed before the submission closes.,Assignment,High
+prepare the operating systems lab record,The submission deadline is within the next two days; I still need to verify the answers.,Assignment,High
+prepare the computer networks lab record,I have completed part of it and need to finish the remaining questions this week.,Assignment,Medium
+prepare the machine learning lab record,The instructor expects the file to be properly formatted in the next few days.,Assignment,Medium
+prepare the data structures lab record,I need to check the rubric and upload the final work before the weekend.,Assignment,Medium
+prepare the automata theory lab record,This coursework is pending and should be completed when I get my next study slot.,Assignment,Low
+prepare the software engineering lab record,The submission deadline is sometime next week; I still need to verify the answers.,Assignment,Low
+prepare the web development lab record,I have completed part of it and need to finish the remaining questions whenever I have free time.,Assignment,Low
+prepare the statistics lab record,The instructor expects the file to be properly formatted today before the deadline.,Assignment,High
+prepare the Python programming lab record,I need to check the rubric and upload the final work by tomorrow morning.,Assignment,High
+submit the DBMS coursework,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+submit the operating systems coursework,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+submit the computer networks coursework,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+submit the machine learning coursework,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+submit the data structures coursework,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+submit the automata theory coursework,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+submit the software engineering coursework,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+submit the web development coursework,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+submit the statistics coursework,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+submit the Python programming coursework,This coursework is pending and should be completed this week.,Assignment,Medium
+check and format the DBMS assignment,I have completed part of it and need to finish the remaining questions sometime next week.,Assignment,Low
+check and format the operating systems assignment,The instructor expects the file to be properly formatted whenever I have free time.,Assignment,Low
+check and format the computer networks assignment,I need to check the rubric and upload the final work today before the deadline.,Assignment,High
+check and format the machine learning assignment,This coursework is pending and should be completed by tomorrow morning.,Assignment,High
+check and format the data structures assignment,The submission deadline is before the submission closes; I still need to verify the answers.,Assignment,High
+check and format the automata theory assignment,I have completed part of it and need to finish the remaining questions within the next two days.,Assignment,High
+check and format the software engineering assignment,The instructor expects the file to be properly formatted this week.,Assignment,Medium
+check and format the web development assignment,I need to check the rubric and upload the final work in the next few days.,Assignment,Medium
+check and format the statistics assignment,This coursework is pending and should be completed before the weekend.,Assignment,Medium
+check and format the Python programming assignment,The submission deadline is when I get my next study slot; I still need to verify the answers.,Assignment,Low
+answer the DBMS tutorial questions,The instructor expects the file to be properly formatted by tomorrow morning.,Assignment,High
+answer the operating systems tutorial questions,I need to check the rubric and upload the final work before the submission closes.,Assignment,High
+answer the computer networks tutorial questions,This coursework is pending and should be completed within the next two days.,Assignment,High
+answer the machine learning tutorial questions,The submission deadline is this week; I still need to verify the answers.,Assignment,Medium
+answer the data structures tutorial questions,I have completed part of it and need to finish the remaining questions in the next few days.,Assignment,Medium
+answer the automata theory tutorial questions,The instructor expects the file to be properly formatted before the weekend.,Assignment,Medium
+answer the software engineering tutorial questions,I need to check the rubric and upload the final work when I get my next study slot.,Assignment,Low
+answer the web development tutorial questions,This coursework is pending and should be completed sometime next week.,Assignment,Low
+answer the statistics tutorial questions,The submission deadline is whenever I have free time; I still need to verify the answers.,Assignment,Low
+answer the Python programming tutorial questions,I have completed part of it and need to finish the remaining questions today before the deadline.,Assignment,High
+complete the pending DBMS practical file,I need to check the rubric and upload the final work this week.,Assignment,Medium
+complete the pending operating systems practical file,This coursework is pending and should be completed in the next few days.,Assignment,Medium
+complete the pending computer networks practical file,The submission deadline is before the weekend; I still need to verify the answers.,Assignment,Medium
+complete the pending machine learning practical file,I have completed part of it and need to finish the remaining questions when I get my next study slot.,Assignment,Low
+complete the pending data structures practical file,The instructor expects the file to be properly formatted sometime next week.,Assignment,Low
+complete the pending automata theory practical file,I need to check the rubric and upload the final work whenever I have free time.,Assignment,Low
+complete the pending software engineering practical file,This coursework is pending and should be completed today before the deadline.,Assignment,High
+complete the pending web development practical file,The submission deadline is by tomorrow morning; I still need to verify the answers.,Assignment,High
+complete the pending statistics practical file,I have completed part of it and need to finish the remaining questions before the submission closes.,Assignment,High
+complete the pending Python programming practical file,The instructor expects the file to be properly formatted within the next two days.,Assignment,High
+review the DBMS assignment before submission,This coursework is pending and should be completed when I get my next study slot.,Assignment,Low
+review the operating systems assignment before submission,The submission deadline is sometime next week; I still need to verify the answers.,Assignment,Low
+review the computer networks assignment before submission,I have completed part of it and need to finish the remaining questions whenever I have free time.,Assignment,Low
+review the machine learning assignment before submission,The instructor expects the file to be properly formatted today before the deadline.,Assignment,High
+review the data structures assignment before submission,I need to check the rubric and upload the final work by tomorrow morning.,Assignment,High
+review the automata theory assignment before submission,This coursework is pending and should be completed before the submission closes.,Assignment,High
+review the software engineering assignment before submission,The submission deadline is within the next two days; I still need to verify the answers.,Assignment,High
+review the web development assignment before submission,I have completed part of it and need to finish the remaining questions this week.,Assignment,Medium
+review the statistics assignment before submission,The instructor expects the file to be properly formatted in the next few days.,Assignment,Medium
+review the Python programming assignment before submission,I need to check the rubric and upload the final work before the weekend.,Assignment,Medium
+study the recursion chapter,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+study the normalisation chapter,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+study the process scheduling chapter,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+study the TCP/IP chapter,I need a steady study session and can work through it within the next two days.,Study,High
+study the supervised learning chapter,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+study the binary trees chapter,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+study the regular expressions chapter,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+study the software testing chapter,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+study the probability chapter,I need a steady study session and can work through it sometime next week.,Study,Low
+study the Java collections chapter,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+understand recursion concepts,I have not studied this topic yet and should set aside time for it within the next two days.,Study,High
+understand normalisation concepts,I want to strengthen my fundamentals with examples this week.,Study,Medium
+understand process scheduling concepts,I need a steady study session and can work through it in the next few days.,Study,Medium
+understand TCP/IP concepts,This is useful for my long-term preparation rather than an immediate submission before the weekend.,Study,Medium
+understand supervised learning concepts,This is part of my weekly learning plan and I want to understand it properly when I get my next study slot.,Study,Low
+understand binary trees concepts,I have not studied this topic yet and should set aside time for it sometime next week.,Study,Low
+understand regular expressions concepts,I want to strengthen my fundamentals with examples whenever I have free time.,Study,Low
+understand software testing concepts,I need a steady study session and can work through it today before the deadline.,Study,High
+understand probability concepts,This is useful for my long-term preparation rather than an immediate submission by tomorrow morning.,Study,High
+understand Java collections concepts,This is part of my weekly learning plan and I want to understand it properly before the submission closes.,Study,High
+make revision notes for recursion,I want to strengthen my fundamentals with examples before the weekend.,Study,Medium
+make revision notes for normalisation,I need a steady study session and can work through it when I get my next study slot.,Study,Low
+make revision notes for process scheduling,This is useful for my long-term preparation rather than an immediate submission sometime next week.,Study,Low
+make revision notes for TCP/IP,This is part of my weekly learning plan and I want to understand it properly whenever I have free time.,Study,Low
+make revision notes for supervised learning,I have not studied this topic yet and should set aside time for it today before the deadline.,Study,High
+make revision notes for binary trees,I want to strengthen my fundamentals with examples by tomorrow morning.,Study,High
+make revision notes for regular expressions,I need a steady study session and can work through it before the submission closes.,Study,High
+make revision notes for software testing,This is useful for my long-term preparation rather than an immediate submission within the next two days.,Study,High
+make revision notes for probability,This is part of my weekly learning plan and I want to understand it properly this week.,Study,Medium
+make revision notes for Java collections,I have not studied this topic yet and should set aside time for it in the next few days.,Study,Medium
+watch the recursion lecture,I need a steady study session and can work through it whenever I have free time.,Study,Low
+watch the normalisation lecture,This is useful for my long-term preparation rather than an immediate submission today before the deadline.,Study,High
+watch the process scheduling lecture,This is part of my weekly learning plan and I want to understand it properly by tomorrow morning.,Study,High
+watch the TCP/IP lecture,I have not studied this topic yet and should set aside time for it before the submission closes.,Study,High
+watch the supervised learning lecture,I want to strengthen my fundamentals with examples within the next two days.,Study,High
+watch the binary trees lecture,I need a steady study session and can work through it this week.,Study,Medium
+watch the regular expressions lecture,This is useful for my long-term preparation rather than an immediate submission in the next few days.,Study,Medium
+watch the software testing lecture,This is part of my weekly learning plan and I want to understand it properly before the weekend.,Study,Medium
+watch the probability lecture,I have not studied this topic yet and should set aside time for it when I get my next study slot.,Study,Low
+watch the Java collections lecture,I want to strengthen my fundamentals with examples sometime next week.,Study,Low
+practise recursion exercises,This is useful for my long-term preparation rather than an immediate submission before the submission closes.,Study,High
+practise normalisation exercises,This is part of my weekly learning plan and I want to understand it properly within the next two days.,Study,High
+practise process scheduling exercises,I have not studied this topic yet and should set aside time for it this week.,Study,Medium
+practise TCP/IP exercises,I want to strengthen my fundamentals with examples in the next few days.,Study,Medium
+practise supervised learning exercises,I need a steady study session and can work through it before the weekend.,Study,Medium
+practise binary trees exercises,This is useful for my long-term preparation rather than an immediate submission when I get my next study slot.,Study,Low
+practise regular expressions exercises,This is part of my weekly learning plan and I want to understand it properly sometime next week.,Study,Low
+practise software testing exercises,I have not studied this topic yet and should set aside time for it whenever I have free time.,Study,Low
+practise probability exercises,I want to strengthen my fundamentals with examples today before the deadline.,Study,High
+practise Java collections exercises,I need a steady study session and can work through it by tomorrow morning.,Study,High
+review today's recursion class,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+review today's normalisation class,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+review today's process scheduling class,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+review today's TCP/IP class,I need a steady study session and can work through it sometime next week.,Study,Low
+review today's supervised learning class,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+review today's binary trees class,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+review today's regular expressions class,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+review today's software testing class,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+review today's probability class,I need a steady study session and can work through it within the next two days.,Study,High
+review today's Java collections class,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+learn the fundamentals of recursion,I have not studied this topic yet and should set aside time for it sometime next week.,Study,Low
+learn the fundamentals of normalisation,I want to strengthen my fundamentals with examples whenever I have free time.,Study,Low
+learn the fundamentals of process scheduling,I need a steady study session and can work through it today before the deadline.,Study,High
+learn the fundamentals of TCP/IP,This is useful for my long-term preparation rather than an immediate submission by tomorrow morning.,Study,High
+learn the fundamentals of supervised learning,This is part of my weekly learning plan and I want to understand it properly before the submission closes.,Study,High
+learn the fundamentals of binary trees,I have not studied this topic yet and should set aside time for it within the next two days.,Study,High
+learn the fundamentals of regular expressions,I want to strengthen my fundamentals with examples this week.,Study,Medium
+learn the fundamentals of software testing,I need a steady study session and can work through it in the next few days.,Study,Medium
+learn the fundamentals of probability,This is useful for my long-term preparation rather than an immediate submission before the weekend.,Study,Medium
+learn the fundamentals of Java collections,This is part of my weekly learning plan and I want to understand it properly when I get my next study slot.,Study,Low
+summarise the recursion reading,I want to strengthen my fundamentals with examples by tomorrow morning.,Study,High
+summarise the normalisation reading,I need a steady study session and can work through it before the submission closes.,Study,High
+summarise the process scheduling reading,This is useful for my long-term preparation rather than an immediate submission within the next two days.,Study,High
+summarise the TCP/IP reading,This is part of my weekly learning plan and I want to understand it properly this week.,Study,Medium
+summarise the supervised learning reading,I have not studied this topic yet and should set aside time for it in the next few days.,Study,Medium
+summarise the binary trees reading,I want to strengthen my fundamentals with examples before the weekend.,Study,Medium
+summarise the regular expressions reading,I need a steady study session and can work through it when I get my next study slot.,Study,Low
+summarise the software testing reading,This is useful for my long-term preparation rather than an immediate submission sometime next week.,Study,Low
+summarise the probability reading,This is part of my weekly learning plan and I want to understand it properly whenever I have free time.,Study,Low
+summarise the Java collections reading,I have not studied this topic yet and should set aside time for it today before the deadline.,Study,High
+work through examples in recursion,I need a steady study session and can work through it this week.,Study,Medium
+work through examples in normalisation,This is useful for my long-term preparation rather than an immediate submission in the next few days.,Study,Medium
+work through examples in process scheduling,This is part of my weekly learning plan and I want to understand it properly before the weekend.,Study,Medium
+work through examples in TCP/IP,I have not studied this topic yet and should set aside time for it when I get my next study slot.,Study,Low
+work through examples in supervised learning,I want to strengthen my fundamentals with examples sometime next week.,Study,Low
+work through examples in binary trees,I need a steady study session and can work through it whenever I have free time.,Study,Low
+work through examples in regular expressions,This is useful for my long-term preparation rather than an immediate submission today before the deadline.,Study,High
+work through examples in software testing,This is part of my weekly learning plan and I want to understand it properly by tomorrow morning.,Study,High
+work through examples in probability,I have not studied this topic yet and should set aside time for it before the submission closes.,Study,High
+work through examples in Java collections,I want to strengthen my fundamentals with examples within the next two days.,Study,High
+revise the basics of recursion,This is useful for my long-term preparation rather than an immediate submission when I get my next study slot.,Study,Low
+revise the basics of normalisation,This is part of my weekly learning plan and I want to understand it properly sometime next week.,Study,Low
+revise the basics of process scheduling,I have not studied this topic yet and should set aside time for it whenever I have free time.,Study,Low
+revise the basics of TCP/IP,I want to strengthen my fundamentals with examples today before the deadline.,Study,High
+revise the basics of supervised learning,I need a steady study session and can work through it by tomorrow morning.,Study,High
+revise the basics of binary trees,This is useful for my long-term preparation rather than an immediate submission before the submission closes.,Study,High
+revise the basics of regular expressions,This is part of my weekly learning plan and I want to understand it properly within the next two days.,Study,High
+revise the basics of software testing,I have not studied this topic yet and should set aside time for it this week.,Study,Medium
+revise the basics of probability,I want to strengthen my fundamentals with examples in the next few days.,Study,Medium
+revise the basics of Java collections,I need a steady study session and can work through it before the weekend.,Study,Medium
+implement the authentication for my project,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+implement the document upload for my project,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+implement the analytics dashboard for my project,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+implement the task classification for my project,I should update the implementation and record the changes within the next two days.,Project,High
+implement the RAG chatbot for my project,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+implement the database layer for my project,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+implement the React dashboard for my project,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+implement the summarisation for my project,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+implement the API integration for my project,I should update the implementation and record the changes sometime next week.,Project,Low
+implement the search for my project,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+debug the authentication module,This is one of the remaining project tasks and needs coordination within the next two days.,Project,High
+debug the document upload module,The feature is partly complete; I need to verify it in the demo environment this week.,Project,Medium
+debug the analytics dashboard module,I should update the implementation and record the changes in the next few days.,Project,Medium
+debug the task classification module,"The next project review is approaching, so I need to make progress before the weekend.",Project,Medium
+debug the RAG chatbot module,The team needs this milestone ready when I get my next study slot; I should test it before merging.,Project,Low
+debug the database layer module,This is one of the remaining project tasks and needs coordination sometime next week.,Project,Low
+debug the React dashboard module,The feature is partly complete; I need to verify it in the demo environment whenever I have free time.,Project,Low
+debug the summarisation module,I should update the implementation and record the changes today before the deadline.,Project,High
+debug the API integration module,"The next project review is approaching, so I need to make progress by tomorrow morning.",Project,High
+debug the search module,The team needs this milestone ready before the submission closes; I should test it before merging.,Project,High
+test the authentication functionality,The feature is partly complete; I need to verify it in the demo environment before the weekend.,Project,Medium
+test the document upload functionality,I should update the implementation and record the changes when I get my next study slot.,Project,Low
+test the analytics dashboard functionality,"The next project review is approaching, so I need to make progress sometime next week.",Project,Low
+test the task classification functionality,The team needs this milestone ready whenever I have free time; I should test it before merging.,Project,Low
+test the RAG chatbot functionality,This is one of the remaining project tasks and needs coordination today before the deadline.,Project,High
+test the database layer functionality,The feature is partly complete; I need to verify it in the demo environment by tomorrow morning.,Project,High
+test the React dashboard functionality,I should update the implementation and record the changes before the submission closes.,Project,High
+test the summarisation functionality,"The next project review is approaching, so I need to make progress within the next two days.",Project,High
+test the API integration functionality,The team needs this milestone ready this week; I should test it before merging.,Project,Medium
+test the search functionality,This is one of the remaining project tasks and needs coordination in the next few days.,Project,Medium
+design the authentication component,I should update the implementation and record the changes whenever I have free time.,Project,Low
+design the document upload component,"The next project review is approaching, so I need to make progress today before the deadline.",Project,High
+design the analytics dashboard component,The team needs this milestone ready by tomorrow morning; I should test it before merging.,Project,High
+design the task classification component,This is one of the remaining project tasks and needs coordination before the submission closes.,Project,High
+design the RAG chatbot component,The feature is partly complete; I need to verify it in the demo environment within the next two days.,Project,High
+design the database layer component,I should update the implementation and record the changes this week.,Project,Medium
+design the React dashboard component,"The next project review is approaching, so I need to make progress in the next few days.",Project,Medium
+design the summarisation component,The team needs this milestone ready before the weekend; I should test it before merging.,Project,Medium
+design the API integration component,This is one of the remaining project tasks and needs coordination when I get my next study slot.,Project,Low
+design the search component,The feature is partly complete; I need to verify it in the demo environment sometime next week.,Project,Low
+integrate the authentication with the backend,"The next project review is approaching, so I need to make progress before the submission closes.",Project,High
+integrate the document upload with the backend,The team needs this milestone ready within the next two days; I should test it before merging.,Project,High
+integrate the analytics dashboard with the backend,This is one of the remaining project tasks and needs coordination this week.,Project,Medium
+integrate the task classification with the backend,The feature is partly complete; I need to verify it in the demo environment in the next few days.,Project,Medium
+integrate the RAG chatbot with the backend,I should update the implementation and record the changes before the weekend.,Project,Medium
+integrate the database layer with the backend,"The next project review is approaching, so I need to make progress when I get my next study slot.",Project,Low
+integrate the React dashboard with the backend,The team needs this milestone ready sometime next week; I should test it before merging.,Project,Low
+integrate the summarisation with the backend,This is one of the remaining project tasks and needs coordination whenever I have free time.,Project,Low
+integrate the API integration with the backend,The feature is partly complete; I need to verify it in the demo environment today before the deadline.,Project,High
+integrate the search with the backend,I should update the implementation and record the changes by tomorrow morning.,Project,High
+document the authentication workflow,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+document the document upload workflow,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+document the analytics dashboard workflow,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+document the task classification workflow,I should update the implementation and record the changes sometime next week.,Project,Low
+document the RAG chatbot workflow,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+document the database layer workflow,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+document the React dashboard workflow,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+document the summarisation workflow,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+document the API integration workflow,I should update the implementation and record the changes within the next two days.,Project,High
+document the search workflow,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+review the authentication implementation,This is one of the remaining project tasks and needs coordination sometime next week.,Project,Low
+review the document upload implementation,The feature is partly complete; I need to verify it in the demo environment whenever I have free time.,Project,Low
+review the analytics dashboard implementation,I should update the implementation and record the changes today before the deadline.,Project,High
+review the task classification implementation,"The next project review is approaching, so I need to make progress by tomorrow morning.",Project,High
+review the RAG chatbot implementation,The team needs this milestone ready before the submission closes; I should test it before merging.,Project,High
+review the database layer implementation,This is one of the remaining project tasks and needs coordination within the next two days.,Project,High
+review the React dashboard implementation,The feature is partly complete; I need to verify it in the demo environment this week.,Project,Medium
+review the summarisation implementation,I should update the implementation and record the changes in the next few days.,Project,Medium
+review the API integration implementation,"The next project review is approaching, so I need to make progress before the weekend.",Project,Medium
+review the search implementation,The team needs this milestone ready when I get my next study slot; I should test it before merging.,Project,Low
+prepare a demo of the authentication,The feature is partly complete; I need to verify it in the demo environment by tomorrow morning.,Project,High
+prepare a demo of the document upload,I should update the implementation and record the changes before the submission closes.,Project,High
+prepare a demo of the analytics dashboard,"The next project review is approaching, so I need to make progress within the next two days.",Project,High
+prepare a demo of the task classification,The team needs this milestone ready this week; I should test it before merging.,Project,Medium
+prepare a demo of the RAG chatbot,This is one of the remaining project tasks and needs coordination in the next few days.,Project,Medium
+prepare a demo of the database layer,The feature is partly complete; I need to verify it in the demo environment before the weekend.,Project,Medium
+prepare a demo of the React dashboard,I should update the implementation and record the changes when I get my next study slot.,Project,Low
+prepare a demo of the summarisation,"The next project review is approaching, so I need to make progress sometime next week.",Project,Low
+prepare a demo of the API integration,The team needs this milestone ready whenever I have free time; I should test it before merging.,Project,Low
+prepare a demo of the search,This is one of the remaining project tasks and needs coordination today before the deadline.,Project,High
+fix bugs in the authentication module,I should update the implementation and record the changes this week.,Project,Medium
+fix bugs in the document upload module,"The next project review is approaching, so I need to make progress in the next few days.",Project,Medium
+fix bugs in the analytics dashboard module,The team needs this milestone ready before the weekend; I should test it before merging.,Project,Medium
+fix bugs in the task classification module,This is one of the remaining project tasks and needs coordination when I get my next study slot.,Project,Low
+fix bugs in the RAG chatbot module,The feature is partly complete; I need to verify it in the demo environment sometime next week.,Project,Low
+fix bugs in the database layer module,I should update the implementation and record the changes whenever I have free time.,Project,Low
+fix bugs in the React dashboard module,"The next project review is approaching, so I need to make progress today before the deadline.",Project,High
+fix bugs in the summarisation module,The team needs this milestone ready by tomorrow morning; I should test it before merging.,Project,High
+fix bugs in the API integration module,This is one of the remaining project tasks and needs coordination before the submission closes.,Project,High
+fix bugs in the search module,The feature is partly complete; I need to verify it in the demo environment within the next two days.,Project,High
+complete the authentication milestone,"The next project review is approaching, so I need to make progress when I get my next study slot.",Project,Low
+complete the document upload milestone,The team needs this milestone ready sometime next week; I should test it before merging.,Project,Low
+complete the analytics dashboard milestone,This is one of the remaining project tasks and needs coordination whenever I have free time.,Project,Low
+complete the task classification milestone,The feature is partly complete; I need to verify it in the demo environment today before the deadline.,Project,High
+complete the RAG chatbot milestone,I should update the implementation and record the changes by tomorrow morning.,Project,High
+complete the database layer milestone,"The next project review is approaching, so I need to make progress before the submission closes.",Project,High
+complete the React dashboard milestone,The team needs this milestone ready within the next two days; I should test it before merging.,Project,High
+complete the summarisation milestone,This is one of the remaining project tasks and needs coordination this week.,Project,Medium
+complete the API integration milestone,The feature is partly complete; I need to verify it in the demo environment in the next few days.,Project,Medium
+complete the search milestone,I should update the implementation and record the changes before the weekend.,Project,Medium
+buy stationery,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+buy study desk,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+buy library card,I should take care of this when I have some free time before the submission closes.,Personal,High
+buy eye check-up,This is a routine personal responsibility within the next two days.,Personal,High
+buy laundry,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+buy prescription glasses,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+buy weekly groceries,I need to remember this outside my academic work before the weekend.,Personal,Medium
+buy phone recharge,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+buy travel arrangements,This is a routine personal responsibility sometime next week.,Personal,Low
+buy personal documents,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+organise my stationery,I need to remember this outside my academic work within the next two days.,Personal,High
+organise my study desk,I should take care of this when I have some free time this week.,Personal,Medium
+organise my library card,This is a routine personal responsibility in the next few days.,Personal,Medium
+organise my eye check-up,I need to make time for this alongside my usual schedule before the weekend.,Personal,Medium
+organise my laundry,This is a personal errand I can fit around my classes when I get my next study slot.,Personal,Low
+organise my prescription glasses,I need to remember this outside my academic work sometime next week.,Personal,Low
+organise my weekly groceries,I should take care of this when I have some free time whenever I have free time.,Personal,Low
+organise my phone recharge,This is a routine personal responsibility today before the deadline.,Personal,High
+organise my travel arrangements,I need to make time for this alongside my usual schedule by tomorrow morning.,Personal,High
+organise my personal documents,This is a personal errand I can fit around my classes before the submission closes.,Personal,High
+renew my stationery,I should take care of this when I have some free time before the weekend.,Personal,Medium
+renew my study desk,This is a routine personal responsibility when I get my next study slot.,Personal,Low
+renew my library card,I need to make time for this alongside my usual schedule sometime next week.,Personal,Low
+renew my eye check-up,This is a personal errand I can fit around my classes whenever I have free time.,Personal,Low
+renew my laundry,I need to remember this outside my academic work today before the deadline.,Personal,High
+renew my prescription glasses,I should take care of this when I have some free time by tomorrow morning.,Personal,High
+renew my weekly groceries,This is a routine personal responsibility before the submission closes.,Personal,High
+renew my phone recharge,I need to make time for this alongside my usual schedule within the next two days.,Personal,High
+renew my travel arrangements,This is a personal errand I can fit around my classes this week.,Personal,Medium
+renew my personal documents,I need to remember this outside my academic work in the next few days.,Personal,Medium
+book an appointment for stationery,This is a routine personal responsibility whenever I have free time.,Personal,Low
+book an appointment for study desk,I need to make time for this alongside my usual schedule today before the deadline.,Personal,High
+book an appointment for library card,This is a personal errand I can fit around my classes by tomorrow morning.,Personal,High
+book an appointment for eye check-up,I need to remember this outside my academic work before the submission closes.,Personal,High
+book an appointment for laundry,I should take care of this when I have some free time within the next two days.,Personal,High
+book an appointment for prescription glasses,This is a routine personal responsibility this week.,Personal,Medium
+book an appointment for weekly groceries,I need to make time for this alongside my usual schedule in the next few days.,Personal,Medium
+book an appointment for phone recharge,This is a personal errand I can fit around my classes before the weekend.,Personal,Medium
+book an appointment for travel arrangements,I need to remember this outside my academic work when I get my next study slot.,Personal,Low
+book an appointment for personal documents,I should take care of this when I have some free time sometime next week.,Personal,Low
+clean my stationery,I need to make time for this alongside my usual schedule before the submission closes.,Personal,High
+clean my study desk,This is a personal errand I can fit around my classes within the next two days.,Personal,High
+clean my library card,I need to remember this outside my academic work this week.,Personal,Medium
+clean my eye check-up,I should take care of this when I have some free time in the next few days.,Personal,Medium
+clean my laundry,This is a routine personal responsibility before the weekend.,Personal,Medium
+clean my prescription glasses,I need to make time for this alongside my usual schedule when I get my next study slot.,Personal,Low
+clean my weekly groceries,This is a personal errand I can fit around my classes sometime next week.,Personal,Low
+clean my phone recharge,I need to remember this outside my academic work whenever I have free time.,Personal,Low
+clean my travel arrangements,I should take care of this when I have some free time today before the deadline.,Personal,High
+clean my personal documents,This is a routine personal responsibility by tomorrow morning.,Personal,High
+pick up stationery,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+pick up study desk,I need to remember this outside my academic work before the weekend.,Personal,Medium
+pick up library card,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+pick up eye check-up,This is a routine personal responsibility sometime next week.,Personal,Low
+pick up laundry,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+pick up prescription glasses,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+pick up weekly groceries,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+pick up phone recharge,I should take care of this when I have some free time before the submission closes.,Personal,High
+pick up travel arrangements,This is a routine personal responsibility within the next two days.,Personal,High
+pick up personal documents,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+plan my stationery,I need to remember this outside my academic work sometime next week.,Personal,Low
+plan my study desk,I should take care of this when I have some free time whenever I have free time.,Personal,Low
+plan my library card,This is a routine personal responsibility today before the deadline.,Personal,High
+plan my eye check-up,I need to make time for this alongside my usual schedule by tomorrow morning.,Personal,High
+plan my laundry,This is a personal errand I can fit around my classes before the submission closes.,Personal,High
+plan my prescription glasses,I need to remember this outside my academic work within the next two days.,Personal,High
+plan my weekly groceries,I should take care of this when I have some free time this week.,Personal,Medium
+plan my phone recharge,This is a routine personal responsibility in the next few days.,Personal,Medium
+plan my travel arrangements,I need to make time for this alongside my usual schedule before the weekend.,Personal,Medium
+plan my personal documents,This is a personal errand I can fit around my classes when I get my next study slot.,Personal,Low
+pay the stationery,I should take care of this when I have some free time by tomorrow morning.,Personal,High
+pay the study desk,This is a routine personal responsibility before the submission closes.,Personal,High
+pay the library card,I need to make time for this alongside my usual schedule within the next two days.,Personal,High
+pay the eye check-up,This is a personal errand I can fit around my classes this week.,Personal,Medium
+pay the laundry,I need to remember this outside my academic work in the next few days.,Personal,Medium
+pay the prescription glasses,I should take care of this when I have some free time before the weekend.,Personal,Medium
+pay the weekly groceries,This is a routine personal responsibility when I get my next study slot.,Personal,Low
+pay the phone recharge,I need to make time for this alongside my usual schedule sometime next week.,Personal,Low
+pay the travel arrangements,This is a personal errand I can fit around my classes whenever I have free time.,Personal,Low
+pay the personal documents,I need to remember this outside my academic work today before the deadline.,Personal,High
+update my stationery,This is a routine personal responsibility this week.,Personal,Medium
+update my study desk,I need to make time for this alongside my usual schedule in the next few days.,Personal,Medium
+update my library card,This is a personal errand I can fit around my classes before the weekend.,Personal,Medium
+update my eye check-up,I need to remember this outside my academic work when I get my next study slot.,Personal,Low
+update my laundry,I should take care of this when I have some free time sometime next week.,Personal,Low
+update my prescription glasses,This is a routine personal responsibility whenever I have free time.,Personal,Low
+update my weekly groceries,I need to make time for this alongside my usual schedule today before the deadline.,Personal,High
+update my phone recharge,This is a personal errand I can fit around my classes by tomorrow morning.,Personal,High
+update my travel arrangements,I need to remember this outside my academic work before the submission closes.,Personal,High
+update my personal documents,I should take care of this when I have some free time within the next two days.,Personal,High
+sort out my stationery,I need to make time for this alongside my usual schedule when I get my next study slot.,Personal,Low
+sort out my study desk,This is a personal errand I can fit around my classes sometime next week.,Personal,Low
+sort out my library card,I need to remember this outside my academic work whenever I have free time.,Personal,Low
+sort out my eye check-up,I should take care of this when I have some free time today before the deadline.,Personal,High
+sort out my laundry,This is a routine personal responsibility by tomorrow morning.,Personal,High
+sort out my prescription glasses,I need to make time for this alongside my usual schedule before the submission closes.,Personal,High
+sort out my weekly groceries,This is a personal errand I can fit around my classes within the next two days.,Personal,High
+sort out my phone recharge,I need to remember this outside my academic work this week.,Personal,Medium
+sort out my travel arrangements,I should take care of this when I have some free time in the next few days.,Personal,Medium
+sort out my personal documents,This is a routine personal responsibility before the weekend.,Personal,Medium
+I need to revise the DBMS syllabus,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+Please remember to prepare for the operating systems examination,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+My next task is to solve previous-year computer networks papers,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+Add a reminder to review machine learning lecture notes,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+I have to practice data structures mock questions,I should practise questions and review mistakes sometime next week.,Exam,Low
+Plan time to complete the automata theory revision plan,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+Make sure I memorise key computer architecture formulas,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+One thing I must do is to prepare a software engineering exam cheat sheet,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+I should review weak topics in statistics,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+Schedule time to attempt a timed object-oriented programming practice test,I should practise questions and review mistakes sometime next week.,Exam,Low
+Please remember to prepare for the machine learning examination,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+My next task is to solve previous-year data structures papers,I should practise questions and review mistakes within the next two days.,Exam,High
+Add a reminder to review automata theory lecture notes,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+I have to practice computer architecture mock questions,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+Plan time to complete the software engineering revision plan,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+Make sure I memorise key statistics formulas,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+One thing I must do is to prepare a object-oriented programming exam cheat sheet,I should practise questions and review mistakes within the next two days.,Exam,High
+I should review weak topics in DBMS,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+Schedule time to attempt a timed operating systems practice test,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+I need to revise the computer networks syllabus,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+My next task is to solve previous-year computer architecture papers,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+Add a reminder to review software engineering lecture notes,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+I have to practice statistics mock questions,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+Plan time to complete the object-oriented programming revision plan,I should practise questions and review mistakes sometime next week.,Exam,Low
+Make sure I memorise key DBMS formulas,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+One thing I must do is to prepare a operating systems exam cheat sheet,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+I should review weak topics in computer networks,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+Schedule time to attempt a timed machine learning practice test,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+I need to revise the data structures syllabus,I should practise questions and review mistakes sometime next week.,Exam,Low
+Please remember to prepare for the automata theory examination,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+Add a reminder to review object-oriented programming lecture notes,I should practise questions and review mistakes within the next two days.,Exam,High
+I have to practice DBMS mock questions,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+Plan time to complete the operating systems revision plan,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+Make sure I memorise key computer networks formulas,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+One thing I must do is to prepare a machine learning exam cheat sheet,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+I should review weak topics in data structures,I should practise questions and review mistakes within the next two days.,Exam,High
+Schedule time to attempt a timed automata theory practice test,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+I need to revise the computer architecture syllabus,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+Please remember to prepare for the software engineering examination,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+My next task is to solve previous-year statistics papers,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+I have to practice computer networks mock questions,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+Plan time to complete the machine learning revision plan,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+Make sure I memorise key data structures formulas,I should practise questions and review mistakes sometime next week.,Exam,Low
+One thing I must do is to prepare a automata theory exam cheat sheet,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+I should review weak topics in computer architecture,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+Schedule time to attempt a timed software engineering practice test,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+I need to revise the statistics syllabus,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+Please remember to prepare for the object-oriented programming examination,I should practise questions and review mistakes sometime next week.,Exam,Low
+My next task is to solve previous-year DBMS papers,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+Add a reminder to review operating systems lecture notes,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+Plan time to complete the automata theory revision plan,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+Make sure I memorise key computer architecture formulas,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+One thing I must do is to prepare a software engineering exam cheat sheet,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+I should review weak topics in statistics,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+Schedule time to attempt a timed object-oriented programming practice test,I should practise questions and review mistakes within the next two days.,Exam,High
+I need to revise the DBMS syllabus,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+Please remember to prepare for the operating systems examination,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+My next task is to solve previous-year computer networks papers,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+Add a reminder to review machine learning lecture notes,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+I have to practice data structures mock questions,I should practise questions and review mistakes within the next two days.,Exam,High
+Make sure I memorise key statistics formulas,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+One thing I must do is to prepare a object-oriented programming exam cheat sheet,I should practise questions and review mistakes sometime next week.,Exam,Low
+I should review weak topics in DBMS,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+Schedule time to attempt a timed operating systems practice test,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+I need to revise the computer networks syllabus,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+Please remember to prepare for the machine learning examination,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+My next task is to solve previous-year data structures papers,I should practise questions and review mistakes sometime next week.,Exam,Low
+Add a reminder to review automata theory lecture notes,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+I have to practice computer architecture mock questions,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+Plan time to complete the software engineering revision plan,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+One thing I must do is to prepare a operating systems exam cheat sheet,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+I should review weak topics in computer networks,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+Schedule time to attempt a timed machine learning practice test,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+I need to revise the data structures syllabus,I should practise questions and review mistakes within the next two days.,Exam,High
+Please remember to prepare for the automata theory examination,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+My next task is to solve previous-year computer architecture papers,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+Add a reminder to review software engineering lecture notes,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+I have to practice statistics mock questions,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+Plan time to complete the object-oriented programming revision plan,I should practise questions and review mistakes within the next two days.,Exam,High
+Make sure I memorise key DBMS formulas,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+I should review weak topics in data structures,I should practise questions and review mistakes sometime next week.,Exam,Low
+Schedule time to attempt a timed automata theory practice test,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+I need to revise the computer architecture syllabus,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+Please remember to prepare for the software engineering examination,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+My next task is to solve previous-year statistics papers,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+Add a reminder to review object-oriented programming lecture notes,I should practise questions and review mistakes sometime next week.,Exam,Low
+I have to practice DBMS mock questions,The exam is today before the deadline; focus on the topics I find difficult.,Exam,High
+Plan time to complete the operating systems revision plan,"My preparation is incomplete, so I need a focused revision session before the submission closes.",Exam,High
+Make sure I memorise key computer networks formulas,This is part of my exam preparation; I need to finish the planned work this week.,Exam,Medium
+One thing I must do is to prepare a machine learning exam cheat sheet,I need to cover the remaining units and check my understanding before the weekend.,Exam,Medium
+Schedule time to attempt a timed software engineering practice test,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+I need to revise the statistics syllabus,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+Please remember to prepare for the object-oriented programming examination,I should practise questions and review mistakes within the next two days.,Exam,High
+My next task is to solve previous-year DBMS papers,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+Add a reminder to review operating systems lecture notes,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+I have to practice computer networks mock questions,This is part of my exam preparation; I need to finish the planned work whenever I have free time.,Exam,Low
+Plan time to complete the machine learning revision plan,I need to cover the remaining units and check my understanding by tomorrow morning.,Exam,High
+Make sure I memorise key data structures formulas,I should practise questions and review mistakes within the next two days.,Exam,High
+One thing I must do is to prepare a automata theory exam cheat sheet,The exam is in the next few days; focus on the topics I find difficult.,Exam,Medium
+I should review weak topics in computer architecture,"My preparation is incomplete, so I need a focused revision session when I get my next study slot.",Exam,Low
+I need to complete the DBMS assignment,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+Please remember to write the report for operating systems,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+My next task is to solve the computer networks assignment questions,This coursework is pending and should be completed this week.,Assignment,Medium
+Add a reminder to finish the machine learning worksheet,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+I have to prepare the data structures lab record,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+Plan time to submit the automata theory coursework,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+Make sure I check and format the software engineering assignment,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+One thing I must do is to answer the web development tutorial questions,This coursework is pending and should be completed this week.,Assignment,Medium
+I should complete the pending statistics practical file,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+Schedule time to review the Python programming assignment before submission,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+Please remember to write the report for machine learning,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+My next task is to solve the data structures assignment questions,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+Add a reminder to finish the automata theory worksheet,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+I have to prepare the software engineering lab record,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+Plan time to submit the web development coursework,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+Make sure I check and format the statistics assignment,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+One thing I must do is to answer the Python programming tutorial questions,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+I should complete the pending DBMS practical file,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+Schedule time to review the operating systems assignment before submission,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+I need to complete the computer networks assignment,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+My next task is to solve the software engineering assignment questions,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+Add a reminder to finish the web development worksheet,This coursework is pending and should be completed this week.,Assignment,Medium
+I have to prepare the statistics lab record,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+Plan time to submit the Python programming coursework,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+Make sure I check and format the DBMS assignment,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+One thing I must do is to answer the operating systems tutorial questions,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+I should complete the pending computer networks practical file,This coursework is pending and should be completed this week.,Assignment,Medium
+Schedule time to review the machine learning assignment before submission,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+I need to complete the data structures assignment,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+Please remember to write the report for automata theory,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+Add a reminder to finish the Python programming worksheet,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+I have to prepare the DBMS lab record,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+Plan time to submit the operating systems coursework,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+Make sure I check and format the computer networks assignment,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+One thing I must do is to answer the machine learning tutorial questions,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+I should complete the pending data structures practical file,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+Schedule time to review the automata theory assignment before submission,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+I need to complete the software engineering assignment,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+Please remember to write the report for web development,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+My next task is to solve the statistics assignment questions,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+I have to prepare the computer networks lab record,This coursework is pending and should be completed this week.,Assignment,Medium
+Plan time to submit the machine learning coursework,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+Make sure I check and format the data structures assignment,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+One thing I must do is to answer the automata theory tutorial questions,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+I should complete the pending software engineering practical file,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+Schedule time to review the web development assignment before submission,This coursework is pending and should be completed this week.,Assignment,Medium
+I need to complete the statistics assignment,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+Please remember to write the report for Python programming,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+My next task is to solve the DBMS assignment questions,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+Add a reminder to finish the operating systems worksheet,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+Plan time to submit the automata theory coursework,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+Make sure I check and format the software engineering assignment,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+One thing I must do is to answer the web development tutorial questions,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+I should complete the pending statistics practical file,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+Schedule time to review the Python programming assignment before submission,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+I need to complete the DBMS assignment,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+Please remember to write the report for operating systems,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+My next task is to solve the computer networks assignment questions,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+Add a reminder to finish the machine learning worksheet,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+I have to prepare the data structures lab record,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+Make sure I check and format the statistics assignment,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+One thing I must do is to answer the Python programming tutorial questions,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+I should complete the pending DBMS practical file,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+Schedule time to review the operating systems assignment before submission,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+I need to complete the computer networks assignment,This coursework is pending and should be completed this week.,Assignment,Medium
+Please remember to write the report for machine learning,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+My next task is to solve the data structures assignment questions,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+Add a reminder to finish the automata theory worksheet,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+I have to prepare the software engineering lab record,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+Plan time to submit the web development coursework,This coursework is pending and should be completed this week.,Assignment,Medium
+One thing I must do is to answer the operating systems tutorial questions,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+I should complete the pending computer networks practical file,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+Schedule time to review the machine learning assignment before submission,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+I need to complete the data structures assignment,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+Please remember to write the report for automata theory,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+My next task is to solve the software engineering assignment questions,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+Add a reminder to finish the web development worksheet,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+I have to prepare the statistics lab record,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+Plan time to submit the Python programming coursework,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+Make sure I check and format the DBMS assignment,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+I should complete the pending data structures practical file,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+Schedule time to review the automata theory assignment before submission,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+I need to complete the software engineering assignment,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+Please remember to write the report for web development,This coursework is pending and should be completed this week.,Assignment,Medium
+My next task is to solve the statistics assignment questions,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+Add a reminder to finish the Python programming worksheet,I need to check the rubric and upload the final work sometime next week.,Assignment,Low
+I have to prepare the DBMS lab record,The submission deadline is today before the deadline; I still need to verify the answers.,Assignment,High
+Plan time to submit the operating systems coursework,The instructor expects the file to be properly formatted before the submission closes.,Assignment,High
+Make sure I check and format the computer networks assignment,This coursework is pending and should be completed this week.,Assignment,Medium
+One thing I must do is to answer the machine learning tutorial questions,I have completed part of it and need to finish the remaining questions before the weekend.,Assignment,Medium
+Schedule time to review the web development assignment before submission,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+I need to complete the statistics assignment,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+Please remember to write the report for Python programming,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+My next task is to solve the DBMS assignment questions,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+Add a reminder to finish the operating systems worksheet,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+I have to prepare the computer networks lab record,This coursework is pending and should be completed whenever I have free time.,Assignment,Low
+Plan time to submit the machine learning coursework,I have completed part of it and need to finish the remaining questions by tomorrow morning.,Assignment,High
+Make sure I check and format the data structures assignment,I need to check the rubric and upload the final work within the next two days.,Assignment,High
+One thing I must do is to answer the automata theory tutorial questions,The submission deadline is in the next few days; I still need to verify the answers.,Assignment,Medium
+I should complete the pending software engineering practical file,The instructor expects the file to be properly formatted when I get my next study slot.,Assignment,Low
+I need to study the recursion chapter,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+Please remember to understand normalisation concepts,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+My next task is to make revision notes for process scheduling,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+Add a reminder to watch the TCP/IP lecture,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+I have to practise supervised learning exercises,I need a steady study session and can work through it sometime next week.,Study,Low
+Plan time to review today's binary trees class,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+Make sure I learn the fundamentals of regular expressions,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+One thing I must do is to summarise the software testing reading,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+I should work through examples in probability,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+Schedule time to revise the basics of Java collections,I need a steady study session and can work through it sometime next week.,Study,Low
+Please remember to understand TCP/IP concepts,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+My next task is to make revision notes for supervised learning,I need a steady study session and can work through it within the next two days.,Study,High
+Add a reminder to watch the binary trees lecture,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+I have to practise regular expressions exercises,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+Plan time to review today's software testing class,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+Make sure I learn the fundamentals of probability,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+One thing I must do is to summarise the Java collections reading,I need a steady study session and can work through it within the next two days.,Study,High
+I should work through examples in recursion,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+Schedule time to revise the basics of normalisation,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+I need to study the process scheduling chapter,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+My next task is to make revision notes for regular expressions,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+Add a reminder to watch the software testing lecture,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+I have to practise probability exercises,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+Plan time to review today's Java collections class,I need a steady study session and can work through it sometime next week.,Study,Low
+Make sure I learn the fundamentals of recursion,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+One thing I must do is to summarise the normalisation reading,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+I should work through examples in process scheduling,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+Schedule time to revise the basics of TCP/IP,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+I need to study the supervised learning chapter,I need a steady study session and can work through it sometime next week.,Study,Low
+Please remember to understand binary trees concepts,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+Add a reminder to watch the Java collections lecture,I need a steady study session and can work through it within the next two days.,Study,High
+I have to practise recursion exercises,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+Plan time to review today's normalisation class,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+Make sure I learn the fundamentals of process scheduling,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+One thing I must do is to summarise the TCP/IP reading,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+I should work through examples in supervised learning,I need a steady study session and can work through it within the next two days.,Study,High
+Schedule time to revise the basics of binary trees,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+I need to study the regular expressions chapter,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+Please remember to understand software testing concepts,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+My next task is to make revision notes for probability,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+I have to practise process scheduling exercises,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+Plan time to review today's TCP/IP class,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+Make sure I learn the fundamentals of supervised learning,I need a steady study session and can work through it sometime next week.,Study,Low
+One thing I must do is to summarise the binary trees reading,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+I should work through examples in regular expressions,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+Schedule time to revise the basics of software testing,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+I need to study the probability chapter,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+Please remember to understand Java collections concepts,I need a steady study session and can work through it sometime next week.,Study,Low
+My next task is to make revision notes for recursion,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+Add a reminder to watch the normalisation lecture,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+Plan time to review today's binary trees class,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+Make sure I learn the fundamentals of regular expressions,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+One thing I must do is to summarise the software testing reading,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+I should work through examples in probability,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+Schedule time to revise the basics of Java collections,I need a steady study session and can work through it within the next two days.,Study,High
+I need to study the recursion chapter,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+Please remember to understand normalisation concepts,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+My next task is to make revision notes for process scheduling,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+Add a reminder to watch the TCP/IP lecture,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+I have to practise supervised learning exercises,I need a steady study session and can work through it within the next two days.,Study,High
+Make sure I learn the fundamentals of probability,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+One thing I must do is to summarise the Java collections reading,I need a steady study session and can work through it sometime next week.,Study,Low
+I should work through examples in recursion,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+Schedule time to revise the basics of normalisation,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+I need to study the process scheduling chapter,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+Please remember to understand TCP/IP concepts,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+My next task is to make revision notes for supervised learning,I need a steady study session and can work through it sometime next week.,Study,Low
+Add a reminder to watch the binary trees lecture,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+I have to practise regular expressions exercises,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+Plan time to review today's software testing class,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+One thing I must do is to summarise the normalisation reading,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+I should work through examples in process scheduling,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+Schedule time to revise the basics of TCP/IP,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+I need to study the supervised learning chapter,I need a steady study session and can work through it within the next two days.,Study,High
+Please remember to understand binary trees concepts,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+My next task is to make revision notes for regular expressions,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+Add a reminder to watch the software testing lecture,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+I have to practise probability exercises,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+Plan time to review today's Java collections class,I need a steady study session and can work through it within the next two days.,Study,High
+Make sure I learn the fundamentals of recursion,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+I should work through examples in supervised learning,I need a steady study session and can work through it sometime next week.,Study,Low
+Schedule time to revise the basics of binary trees,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+I need to study the regular expressions chapter,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+Please remember to understand software testing concepts,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+My next task is to make revision notes for probability,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+Add a reminder to watch the Java collections lecture,I need a steady study session and can work through it sometime next week.,Study,Low
+I have to practise recursion exercises,This is part of my weekly learning plan and I want to understand it properly today before the deadline.,Study,High
+Plan time to review today's normalisation class,I want to strengthen my fundamentals with examples before the submission closes.,Study,High
+Make sure I learn the fundamentals of process scheduling,This is useful for my long-term preparation rather than an immediate submission this week.,Study,Medium
+One thing I must do is to summarise the TCP/IP reading,I have not studied this topic yet and should set aside time for it before the weekend.,Study,Medium
+Schedule time to revise the basics of software testing,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+I need to study the probability chapter,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+Please remember to understand Java collections concepts,I need a steady study session and can work through it within the next two days.,Study,High
+My next task is to make revision notes for recursion,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+Add a reminder to watch the normalisation lecture,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+I have to practise process scheduling exercises,This is useful for my long-term preparation rather than an immediate submission whenever I have free time.,Study,Low
+Plan time to review today's TCP/IP class,I have not studied this topic yet and should set aside time for it by tomorrow morning.,Study,High
+Make sure I learn the fundamentals of supervised learning,I need a steady study session and can work through it within the next two days.,Study,High
+One thing I must do is to summarise the binary trees reading,This is part of my weekly learning plan and I want to understand it properly in the next few days.,Study,Medium
+I should work through examples in regular expressions,I want to strengthen my fundamentals with examples when I get my next study slot.,Study,Low
+I need to implement the authentication for my project,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+Please remember to debug the document upload module,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+My next task is to test the analytics dashboard functionality,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+Add a reminder to design the task classification component,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+I have to integrate the RAG chatbot with the backend,I should update the implementation and record the changes sometime next week.,Project,Low
+Plan time to document the database layer workflow,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+Make sure I review the React dashboard implementation,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+One thing I must do is to prepare a demo of the summarisation,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+I should fix bugs in the API integration module,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+Schedule time to complete the search milestone,I should update the implementation and record the changes sometime next week.,Project,Low
+Please remember to debug the task classification module,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+My next task is to test the RAG chatbot functionality,I should update the implementation and record the changes within the next two days.,Project,High
+Add a reminder to design the database layer component,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+I have to integrate the React dashboard with the backend,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+Plan time to document the summarisation workflow,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+Make sure I review the API integration implementation,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+One thing I must do is to prepare a demo of the search,I should update the implementation and record the changes within the next two days.,Project,High
+I should fix bugs in the authentication module,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+Schedule time to complete the document upload milestone,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+I need to implement the analytics dashboard for my project,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+My next task is to test the React dashboard functionality,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+Add a reminder to design the summarisation component,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+I have to integrate the API integration with the backend,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+Plan time to document the search workflow,I should update the implementation and record the changes sometime next week.,Project,Low
+Make sure I review the authentication implementation,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+One thing I must do is to prepare a demo of the document upload,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+I should fix bugs in the analytics dashboard module,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+Schedule time to complete the task classification milestone,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+I need to implement the RAG chatbot for my project,I should update the implementation and record the changes sometime next week.,Project,Low
+Please remember to debug the database layer module,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+Add a reminder to design the search component,I should update the implementation and record the changes within the next two days.,Project,High
+I have to integrate the authentication with the backend,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+Plan time to document the document upload workflow,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+Make sure I review the analytics dashboard implementation,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+One thing I must do is to prepare a demo of the task classification,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+I should fix bugs in the RAG chatbot module,I should update the implementation and record the changes within the next two days.,Project,High
+Schedule time to complete the database layer milestone,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+I need to implement the React dashboard for my project,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+Please remember to debug the summarisation module,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+My next task is to test the API integration functionality,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+I have to integrate the analytics dashboard with the backend,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+Plan time to document the task classification workflow,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+Make sure I review the RAG chatbot implementation,I should update the implementation and record the changes sometime next week.,Project,Low
+One thing I must do is to prepare a demo of the database layer,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+I should fix bugs in the React dashboard module,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+Schedule time to complete the summarisation milestone,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+I need to implement the API integration for my project,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+Please remember to debug the search module,I should update the implementation and record the changes sometime next week.,Project,Low
+My next task is to test the authentication functionality,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+Add a reminder to design the document upload component,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+Plan time to document the database layer workflow,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+Make sure I review the React dashboard implementation,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+One thing I must do is to prepare a demo of the summarisation,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+I should fix bugs in the API integration module,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+Schedule time to complete the search milestone,I should update the implementation and record the changes within the next two days.,Project,High
+I need to implement the authentication for my project,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+Please remember to debug the document upload module,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+My next task is to test the analytics dashboard functionality,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+Add a reminder to design the task classification component,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+I have to integrate the RAG chatbot with the backend,I should update the implementation and record the changes within the next two days.,Project,High
+Make sure I review the API integration implementation,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+One thing I must do is to prepare a demo of the search,I should update the implementation and record the changes sometime next week.,Project,Low
+I should fix bugs in the authentication module,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+Schedule time to complete the document upload milestone,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+I need to implement the analytics dashboard for my project,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+Please remember to debug the task classification module,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+My next task is to test the RAG chatbot functionality,I should update the implementation and record the changes sometime next week.,Project,Low
+Add a reminder to design the database layer component,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+I have to integrate the React dashboard with the backend,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+Plan time to document the summarisation workflow,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+One thing I must do is to prepare a demo of the document upload,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+I should fix bugs in the analytics dashboard module,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+Schedule time to complete the task classification milestone,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+I need to implement the RAG chatbot for my project,I should update the implementation and record the changes within the next two days.,Project,High
+Please remember to debug the database layer module,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+My next task is to test the React dashboard functionality,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+Add a reminder to design the summarisation component,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+I have to integrate the API integration with the backend,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+Plan time to document the search workflow,I should update the implementation and record the changes within the next two days.,Project,High
+Make sure I review the authentication implementation,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+I should fix bugs in the RAG chatbot module,I should update the implementation and record the changes sometime next week.,Project,Low
+Schedule time to complete the database layer milestone,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+I need to implement the React dashboard for my project,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+Please remember to debug the summarisation module,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+My next task is to test the API integration functionality,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+Add a reminder to design the search component,I should update the implementation and record the changes sometime next week.,Project,Low
+I have to integrate the authentication with the backend,The team needs this milestone ready today before the deadline; I should test it before merging.,Project,High
+Plan time to document the document upload workflow,The feature is partly complete; I need to verify it in the demo environment before the submission closes.,Project,High
+Make sure I review the analytics dashboard implementation,"The next project review is approaching, so I need to make progress this week.",Project,Medium
+One thing I must do is to prepare a demo of the task classification,This is one of the remaining project tasks and needs coordination before the weekend.,Project,Medium
+Schedule time to complete the summarisation milestone,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+I need to implement the API integration for my project,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+Please remember to debug the search module,I should update the implementation and record the changes within the next two days.,Project,High
+My next task is to test the authentication functionality,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+Add a reminder to design the document upload component,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+I have to integrate the analytics dashboard with the backend,"The next project review is approaching, so I need to make progress whenever I have free time.",Project,Low
+Plan time to document the task classification workflow,This is one of the remaining project tasks and needs coordination by tomorrow morning.,Project,High
+Make sure I review the RAG chatbot implementation,I should update the implementation and record the changes within the next two days.,Project,High
+One thing I must do is to prepare a demo of the database layer,The team needs this milestone ready in the next few days; I should test it before merging.,Project,Medium
+I should fix bugs in the React dashboard module,The feature is partly complete; I need to verify it in the demo environment when I get my next study slot.,Project,Low
+I need to buy stationery,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+Please remember to organise my study desk,I should take care of this when I have some free time before the submission closes.,Personal,High
+My next task is to renew my library card,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+Add a reminder to book an appointment for eye check-up,I need to remember this outside my academic work before the weekend.,Personal,Medium
+I have to clean my laundry,This is a routine personal responsibility sometime next week.,Personal,Low
+Plan time to pick up prescription glasses,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+Make sure I plan my weekly groceries,I should take care of this when I have some free time before the submission closes.,Personal,High
+One thing I must do is to pay the phone recharge,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+I should update my travel arrangements,I need to remember this outside my academic work before the weekend.,Personal,Medium
+Schedule time to sort out my personal documents,This is a routine personal responsibility sometime next week.,Personal,Low
+Please remember to organise my eye check-up,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+My next task is to renew my laundry,This is a routine personal responsibility within the next two days.,Personal,High
+Add a reminder to book an appointment for prescription glasses,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+I have to clean my weekly groceries,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+Plan time to pick up phone recharge,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+Make sure I plan my travel arrangements,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+One thing I must do is to pay the personal documents,This is a routine personal responsibility within the next two days.,Personal,High
+I should update my stationery,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+Schedule time to sort out my study desk,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+I need to buy library card,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+My next task is to renew my weekly groceries,I should take care of this when I have some free time before the submission closes.,Personal,High
+Add a reminder to book an appointment for phone recharge,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+I have to clean my travel arrangements,I need to remember this outside my academic work before the weekend.,Personal,Medium
+Plan time to pick up personal documents,This is a routine personal responsibility sometime next week.,Personal,Low
+Make sure I plan my stationery,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+One thing I must do is to pay the study desk,I should take care of this when I have some free time before the submission closes.,Personal,High
+I should update my library card,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+Schedule time to sort out my eye check-up,I need to remember this outside my academic work before the weekend.,Personal,Medium
+I need to buy laundry,This is a routine personal responsibility sometime next week.,Personal,Low
+Please remember to organise my prescription glasses,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+Add a reminder to book an appointment for personal documents,This is a routine personal responsibility within the next two days.,Personal,High
+I have to clean my stationery,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+Plan time to pick up study desk,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+Make sure I plan my library card,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+One thing I must do is to pay the eye check-up,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+I should update my laundry,This is a routine personal responsibility within the next two days.,Personal,High
+Schedule time to sort out my prescription glasses,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+I need to buy weekly groceries,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+Please remember to organise my phone recharge,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+My next task is to renew my travel arrangements,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+I have to clean my library card,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+Plan time to pick up eye check-up,I need to remember this outside my academic work before the weekend.,Personal,Medium
+Make sure I plan my laundry,This is a routine personal responsibility sometime next week.,Personal,Low
+One thing I must do is to pay the prescription glasses,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+I should update my weekly groceries,I should take care of this when I have some free time before the submission closes.,Personal,High
+Schedule time to sort out my phone recharge,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+I need to buy travel arrangements,I need to remember this outside my academic work before the weekend.,Personal,Medium
+Please remember to organise my personal documents,This is a routine personal responsibility sometime next week.,Personal,Low
+My next task is to renew my stationery,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+Add a reminder to book an appointment for study desk,I should take care of this when I have some free time before the submission closes.,Personal,High
+Plan time to pick up prescription glasses,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+Make sure I plan my weekly groceries,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+One thing I must do is to pay the phone recharge,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+I should update my travel arrangements,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+Schedule time to sort out my personal documents,This is a routine personal responsibility within the next two days.,Personal,High
+I need to buy stationery,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+Please remember to organise my study desk,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+My next task is to renew my library card,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+Add a reminder to book an appointment for eye check-up,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+I have to clean my laundry,This is a routine personal responsibility within the next two days.,Personal,High
+Make sure I plan my travel arrangements,I need to remember this outside my academic work before the weekend.,Personal,Medium
+One thing I must do is to pay the personal documents,This is a routine personal responsibility sometime next week.,Personal,Low
+I should update my stationery,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+Schedule time to sort out my study desk,I should take care of this when I have some free time before the submission closes.,Personal,High
+I need to buy library card,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+Please remember to organise my eye check-up,I need to remember this outside my academic work before the weekend.,Personal,Medium
+My next task is to renew my laundry,This is a routine personal responsibility sometime next week.,Personal,Low
+Add a reminder to book an appointment for prescription glasses,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+I have to clean my weekly groceries,I should take care of this when I have some free time before the submission closes.,Personal,High
+Plan time to pick up phone recharge,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+One thing I must do is to pay the study desk,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+I should update my library card,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+Schedule time to sort out my eye check-up,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+I need to buy laundry,This is a routine personal responsibility within the next two days.,Personal,High
+Please remember to organise my prescription glasses,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+My next task is to renew my weekly groceries,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+Add a reminder to book an appointment for phone recharge,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+I have to clean my travel arrangements,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+Plan time to pick up personal documents,This is a routine personal responsibility within the next two days.,Personal,High
+Make sure I plan my stationery,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+I should update my laundry,This is a routine personal responsibility sometime next week.,Personal,Low
+Schedule time to sort out my prescription glasses,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+I need to buy weekly groceries,I should take care of this when I have some free time before the submission closes.,Personal,High
+Please remember to organise my phone recharge,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+My next task is to renew my travel arrangements,I need to remember this outside my academic work before the weekend.,Personal,Medium
+Add a reminder to book an appointment for personal documents,This is a routine personal responsibility sometime next week.,Personal,Low
+I have to clean my stationery,This is a personal errand I can fit around my classes today before the deadline.,Personal,High
+Plan time to pick up study desk,I should take care of this when I have some free time before the submission closes.,Personal,High
+Make sure I plan my library card,I need to make time for this alongside my usual schedule this week.,Personal,Medium
+One thing I must do is to pay the eye check-up,I need to remember this outside my academic work before the weekend.,Personal,Medium
+Schedule time to sort out my phone recharge,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+I need to buy travel arrangements,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+Please remember to organise my personal documents,This is a routine personal responsibility within the next two days.,Personal,High
+My next task is to renew my stationery,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+Add a reminder to book an appointment for study desk,I should take care of this when I have some free time when I get my next study slot.,Personal,Low
+I have to clean my library card,I need to make time for this alongside my usual schedule whenever I have free time.,Personal,Low
+Plan time to pick up eye check-up,I need to remember this outside my academic work by tomorrow morning.,Personal,High
+Make sure I plan my laundry,This is a routine personal responsibility within the next two days.,Personal,High
+One thing I must do is to pay the prescription glasses,This is a personal errand I can fit around my classes in the next few days.,Personal,Medium
+I should update my weekly groceries,I should take care of this when I have some free time when I get my next study slot.,Personal,Low

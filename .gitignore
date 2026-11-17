@@ -1,0 +1,52 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# ChromaDB
+chroma_db/
+**/chroma_db/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node dependencies and builds
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Logs
+*.log
+
+# Uploaded documents
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# ML generated files
+ml/saved_models/
+ml/experiments/results/
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Old Git history backup
+.git-backup/
